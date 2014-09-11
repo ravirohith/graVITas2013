@@ -1,0 +1,14 @@
+[30-Jul-2013 02:01:09] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting ',' or ';' in /home/vitgravi/public_html/testing/content.php on line 6
+[30-Jul-2013 02:02:15] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting ',' or ';' in /home/vitgravi/public_html/testing/content.php on line 6
+[30-Jul-2013 02:02:15] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting ',' or ';' in /home/vitgravi/public_html/testing/content.php on line 6
+[31-Jul-2013 11:17:08] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting ',' or ';' in /home/vitgravi/public_html/testing/content.php on line 6
+[01-Aug-2013 13:49:13] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'vitgravi'@'localhost' (using password: NO) in /home/vitgravi/public_html/testing/contact.php on line 56
+[01-Aug-2013 13:49:13] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home/vitgravi/public_html/testing/contact.php on line 56
+[02-Aug-2013 02:34:50] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/vitgravi/public_html/testing/events.php on line 3
+[02-Aug-2013 02:35:19] PHP Parse error:  syntax error, unexpected '<' in /home/vitgravi/public_html/testing/events.php on line 27
+[02-Aug-2013 02:50:48] PHP Parse error:  syntax error, unexpected T_ELSE in /home/vitgravi/public_html/testing/events.php on line 26
+[03-Aug-2013 08:37:33] PHP Parse error:  syntax error, unexpected '$' in /home/vitgravi/public_html/testing/index.php on line 3
+[03-Aug-2013 08:37:36] PHP Parse error:  syntax error, unexpected '$' in /home/vitgravi/public_html/testing/index.php on line 3
+[03-Aug-2013 08:37:57] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home/vitgravi/public_html/testing/index.php on line 3
+[03-Aug-2013 08:38:00] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home/vitgravi/public_html/testing/index.php on line 3
+[03-Aug-2013 08:38:01] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home/vitgravi/public_html/testing/index.php on line 3

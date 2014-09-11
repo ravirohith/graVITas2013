@@ -1,0 +1,13 @@
+#header{
+		border:1px black solid;
+		width:1300px;
+		height:100px;
+		margin:0 auto;
+		overflow:none;
+	}
+	#content{
+		border:1px black solid;
+		width:940px;
+		height:600px;
+		margin:10px auto;
+	}

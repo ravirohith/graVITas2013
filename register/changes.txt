@@ -1,0 +1,10 @@
+CHANGES (01-08-2013)
+
+
+EXTERNALS
+
+1. Created index_login.php
+2. Modified index.php - Introduced session checking on the top of the page
+3. Created logout.php
+4. On login only display the details(no option for adding, deleting and editing )
+5. 

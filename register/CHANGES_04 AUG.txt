@@ -1,0 +1,17 @@
+1. autocomplete for colleges index_register.php
+2. phone no. -- 10 digits(done)
+3. gender in add members (done)
+4. pop up on delete (done)
+5. List to be shown in add events
+6. See Summary instead of Checkout()
+7. Include no. of participants in add contingent head(done)
+8. JS Autocomplete.
+9. contingent no --> Start from 10000(done) 
+
+In see summary
+->List of events
+->Save and download option
+->Confirm reg option
+->Pop up on Closing tab(if not confirmed)
+->On confirmation - contingent id, display amount summary and instructions
+->Link for Go home

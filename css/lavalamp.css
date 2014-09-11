@@ -1,0 +1,52 @@
+   
+		.lavaLampWithImage {
+            position: relative;
+            height: 101px;
+            width: 980px;
+            background:lightblue repeat-x top;
+            padding: 0px;
+            margin: 0px;
+            overflow: hidden;
+        }
+                .lavaLampWithImage li {
+                    float: left;
+                    list-style: none;
+                }
+          
+                 .lavaLampWithImage li a:hover{
+                       bottom:7px;
+                    } 
+                
+                    .lavaLampWithImage li.back {
+                        background: url("../images/pat.jpg") repeat-x right -30px;
+                        width: 9px; height: 106px;
+                        z-index: 8;
+                        position: absolute;
+                    }
+                        .lavaLampWithImage li.back .left {
+                            background: url("../images/pat.jpg") repeat-x top left;
+                            height: 106px;
+                           /* 7px is the width of the rounded shape */
+                        }
+                    .lavaLampWithImage li a{
+                        font: bold 14px arial;
+                        text-decoration: none;
+                        color: #fff;
+                        outline: none;
+                        text-align: center;
+                        text-transform: uppercase;
+                        letter-spacing: 0;
+                        z-index: 10;
+                        display: block;
+                        float: left;
+                        height: 101px;
+                        position: relative;
+                        overflow: hidden;
+                        margin: 0px;    
+                        -webkit-transition:all 0.5s;
+                    }
+                        .lavaLampWithImage li a:hover, .lavaLampWithImage li a:active, .lavaLampWithImage li a:visited {
+                            border: none;
+                        }
+
+                  
